@@ -16,7 +16,7 @@
     <string name="order_quantity">Quantity: <xliff:g id="quantity" example="2">%d</xliff:g></string>
     <string name="order_whipped_cream">Add whipped cream? <xliff:g id="whipped" example="true">%b</xliff:g></string>
     <string name="order_chocolate">Add chocolate? <xliff:g id="chocolate" example="true">%b</xliff:g></string>
-    <string name="order_total">Total: $<xliff:g id="price" example="$15">%s</xliff:g></string>
+    <string name="order_total">Total: <xliff:g id="price" example="$15">%s</xliff:g></string>
     <string name="thank_you">Thank you!</string>
     <string name="too_much_coffee_toast">That\'s too much coffee ma dude</string>
     <string name="too_little_coffee_toast">We don\'t deliver empty cups ma dude</string>
